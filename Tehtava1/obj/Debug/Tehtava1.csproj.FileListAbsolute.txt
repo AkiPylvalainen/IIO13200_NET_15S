@@ -1,14 +1,39 @@
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe.config
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.pdb
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.g.cs
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\App.g.cs
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S_MarkupCompile.cache
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S_MarkupCompile.lref
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.baml
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.g.resources
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.Properties.Resources.resources
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.exe
-C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\bin\Debug\Tehtava1.exe.config
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\bin\Debug\Tehtava1.exe
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\bin\Debug\Tehtava1.pdb
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\MainWindow.baml
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\MainWindow.g.cs
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\App.g.cs
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\Tehtava1_MarkupCompile.cache
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\Tehtava1.g.resources
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\Tehtava1.Properties.Resources.resources
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\Tehtava1.exe
+C:\Users\Aki Pylväläinen\Desktop\Workspace\projects\IIO13200\Tehtava1\obj\Debug\Tehtava1.pdb
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\bin\Debug\Tehtava1.exe.config
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.exe
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.pdb
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\bin\Debug\Tehtava1.exe
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\bin\Debug\Tehtava1.pdb
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\MainWindow.baml
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\MainWindow.g.cs
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\App.g.cs
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1_MarkupCompile.cache
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.g.resources
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.Properties.Resources.resources
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\bin\Debug\Tehtava1.exe.config
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.exe
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.pdb
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\bin\Debug\Tehtava1.exe
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\bin\Debug\Tehtava1.pdb
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\MainWindow.baml
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\MainWindow.g.cs
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\App.g.cs
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1_MarkupCompile.cache
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.g.resources
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.Properties.Resources.resources
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache

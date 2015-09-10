@@ -1,12 +1,24 @@
 ﻿<Window x:Class="Tehtava2Lotto.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Tehtava2Lotto"
-        mc:Ignorable="d"
-        Title="This can be your lucky Day!" Height="350" Width="525">
+        Title="This could be your lucky day" Height="350" Width="525">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="116*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="414,184.6,0,0" VerticalAlignment="Top" Width="75" Click="btnClose_Click" Grid.Row="1" Height="21"/>
+        <Label Content="Choose the game:" HorizontalAlignment="Left" Margin="131,22,0,0" VerticalAlignment="Top" Height="26" Width="106"/>
+        <ComboBox x:Name="cmbLotto" HorizontalAlignment="Left" Margin="268,25,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0" Height="22">
+            <ComboBoxItem Content="Suomi"/>
+            <ComboBoxItem Content="VikingLotto"/>
+            <ComboBoxItem Content="Eurojackpot"/>
+        </ComboBox>
+        <Label Content="Number of drawns:" HorizontalAlignment="Left" Margin="125,53,0,0" VerticalAlignment="Top" Height="26" Width="112"/>
+        <TextBox x:Name="txtRows" HorizontalAlignment="Left" Height="23" Margin="268,57,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="268,3.6,0,0" VerticalAlignment="Top" Width="75" Click="btnClear_Click" Height="22" Grid.Row="1"/>
+        <Button x:Name="btnDraw" Content="Draw" HorizontalAlignment="Left" Margin="161,3.6,0,0" VerticalAlignment="Top" Width="75" Click="btnDraw_Click" Height="22" Grid.Row="1"/>
+        <TextBox x:Name="txtLottoRows" HorizontalAlignment="Left" Height="145" Margin="80,60.6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="308" Grid.Row="1"/>
+        <Label Content="Randomly drawn numbers:" HorizontalAlignment="Left" Margin="82,31.6,0,0" VerticalAlignment="Top" Grid.Row="1" Height="25" Width="152"/>
     </Grid>
 </Window>
