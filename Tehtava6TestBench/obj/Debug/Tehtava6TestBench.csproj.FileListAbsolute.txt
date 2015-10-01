@@ -1,0 +1,39 @@
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.exe.config
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.exe
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.pdb
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.csprojResolveAssemblyReference.cache
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\MainWindow.baml
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\MainWindow.g.cs
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\App.g.cs
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench_MarkupCompile.cache
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.g.resources
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.Properties.Resources.resources
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.csproj.GenerateResource.Cache
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.exe
+C:\Users\Omistaja\Documents\Visual Studio 2013\Projects\cs\II13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.pdb
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.exe.config
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.exe
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.pdb
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.exe
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.pdb
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.csprojResolveAssemblyReference.cache
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\MainWindow.baml
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\MainWindow.g.cs
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\App.g.cs
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench_MarkupCompile.cache
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.g.resources
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.Properties.Resources.resources
+I:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.csproj.GenerateResource.Cache
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.exe.config
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.exe
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.pdb
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.exe
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\bin\Debug\Tehtava6TestBench.pdb
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.csprojResolveAssemblyReference.cache
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\MainWindow.baml
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\MainWindow.g.cs
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\App.g.cs
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench_MarkupCompile.cache
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.g.resources
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.Properties.Resources.resources
+F:\JAMK\DotNET-ohjelmointi\IIO13200\Tehtava6TestBench\obj\Debug\Tehtava6TestBench.csproj.GenerateResource.Cache

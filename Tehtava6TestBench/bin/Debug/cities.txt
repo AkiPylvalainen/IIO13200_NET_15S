@@ -1,0 +1,29 @@
+﻿Jyväskylä
+Vantaa
+Joensuu
+South Park
+Helsinki
+Nyki
+Los Angeles
+Walhalla
+New York
+Ducktown
+Turku
+Juva
+Urjala
+Manala
+Mikkeli
+Vaajakoski
+Tampere
+Tuonela
+.NET
+Pasila
+Satumaa
+Rovaniemi
+Punavuori
+Höhöö
+London
+Singapore
+Söpölä
+Tibet
+Stockholm

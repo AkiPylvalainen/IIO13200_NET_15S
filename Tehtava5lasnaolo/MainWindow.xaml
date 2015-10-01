@@ -1,0 +1,14 @@
+﻿<Window x:Class="Tehtava5lasnaolo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Läsnäolot" Height="350" Width="525">
+    <DockPanel Width="Auto">
+        <StackPanel Orientation="Vertical" DockPanel.Dock="Top">
+            <Button Name="BtnStudentsDT" Content="Hae läsnäolot (DataTable)" Click="BtnStudentsDT_Click"/>
+            <TextBox Name="txtAsio"/>
+            <Button Name="BtnStudentDV" Content="Hae läsnäoloni (DataView)" Click="BtnStudentDV_Click"/>
+            <Button Name="BtnStudentsDS" Content="Hae läsnäolot (Typed DataSet)" Click="BtnStudentsDS_Click"/>
+        </StackPanel>
+        <DataGrid x:Name="dgStudents" AutoGenerateColumns="True" ItemsSource="{Binding}"/>
+    </DockPanel>
+</Window>
