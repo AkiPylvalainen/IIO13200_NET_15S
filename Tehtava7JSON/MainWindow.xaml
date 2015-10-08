@@ -1,0 +1,15 @@
+﻿<Window x:Class="Tehtava7JSON.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="REST Client" Height="350" Width="525">
+    <DockPanel Width="Auto">
+        <StackPanel Orientation="Vertical" DockPanel.Dock="Top">
+            <StackPanel Orientation="Horizontal">
+                <ComboBox x:Name="cbStations" Margin="10,10,10,10" SelectedIndex="0" DisplayMemberPath="StationName"/>
+                <Button x:Name="btnTrains" Content="Hae lähtevät junat" Margin="10,10,10,10" Click="btnTrains_Click"/>
+                <Label x:Name="Label1" Content="" Margin="10,10,10,10"/>
+            </StackPanel>
+        </StackPanel>
+        <DataGrid x:Name="dgTrains" Margin="10,10,10,10" ItemsSource="{Binding}"/>
+    </DockPanel>
+</Window>
