@@ -1,0 +1,33 @@
+﻿<Page x:Class="Tehtava8Palaute.FeedbackReportPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="Feedback - Report">
+    <DockPanel Width="Auto">
+        <StackPanel Orientation="Vertical" DockPanel.Dock="Top">
+            <Button x:Name="btnGetFeedbacks" Content="Hae palautteet" Margin="10,10,10,0" Click="btnGetFeedbacks_Click"/>
+        </StackPanel>
+
+        <Grid x:Name="feedbackGrid">
+
+            <Grid.Resources>
+                <XmlDataProvider x:Key="feedbackData" XPath="palautteet" />
+            </Grid.Resources>
+
+            <DataGrid x:Name="dgFeedbacks" DataContext="{StaticResource feedbackData}" ItemsSource="{Binding XPath=palaute}" AutoGenerateColumns="False" Margin="10,10,10,10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Pvm"           Binding="{Binding XPath=pvm}"/>
+                    <DataGridTextColumn Header="Tekijä"        Binding="{Binding XPath=tekija}"/>
+                    <DataGridTextColumn Header="Opittu"        Binding="{Binding XPath=opittu}"/>
+                    <DataGridTextColumn Header="Haluan oppia"  Binding="{Binding XPath=haluanoppia}"/>
+                    <DataGridTextColumn Header="Hyvää"         Binding="{Binding XPath=hyvaa}"/>
+                    <DataGridTextColumn Header="Parannettavaa" Binding="{Binding XPath=parannettavaa}"/>
+                    <DataGridTextColumn Header="Muuta"         Binding="{Binding XPath=muuta}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </DockPanel>
+</Page>

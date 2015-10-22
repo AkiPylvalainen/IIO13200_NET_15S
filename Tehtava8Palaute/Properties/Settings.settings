@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tehtava8Palaute.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FeedbackFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\ghost.labranet.jamk.fi\temp\Palautteet.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
